@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luosiwu0628
+- 👋 Hi, I’m Rose Wu
 - 👀 I’m interested in SQL, Python, Data Modelling
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on SQL, Python
